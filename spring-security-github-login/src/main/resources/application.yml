@@ -1,0 +1,10 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: 0ab1cd23e456789101fg
+            clientSecret: 12345678ab01c011d1e2f13g1h4ij15kl1617m18
+# We must set up one application for OAuth in github from Developer settings
+# Need to put appropriate clientId & clientSecret here
